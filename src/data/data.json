@@ -1,0 +1,136 @@
+{
+  "cities": [
+    "New York",
+    "Paris",
+    "Mumbai",
+    "London"
+  ],
+  "properties": [
+    {
+      "id": 1,
+      "name": "RCE Theaters - 907 S Beckford Dr, Henderson, NC 27536",
+      "city": "New York",
+      "description": "Spacious apartment with a great view of Manhattan.",
+      "price": 7255,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "rooms": 2,
+      "squareFeet": 1800,
+      "location": "8558 Pecan St.",
+      "forRent": true,
+      "image": "../assets/manhattan-dusk.jpg",
+      "isPopular": false
+      
+    },
+    {
+      "id": 2,
+      "name": "Costco Wholesale - 1021 Oak Forest Ln, Myrtle Beach, SC",
+      "city": "New York",
+      "description": "Cozy studio with a stunning view of Central Park.",
+      "price": 7255,
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "rooms": 2,
+      "squareFeet": 750,
+      "location": "8558 Parker Rd.",
+      "forRent": true,
+      "image": "../assets/manhattan-dusk.jpg",
+      "isPopular": true
+    },
+    {
+      "id": 3,
+      "name": "Regal North Hills-4150 Main at North Hills St, Releigh",
+      "city": "Paris",
+      "description": "Lovely studio in the heart of Montmartre.",
+      "price": 5236,
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "rooms": 2,
+      "squareFeet": 600,
+      "location": "3890 Poplar Dr.",
+      "forRent": true,
+      "image": "../assets/manhattan-dusk.jpg",
+      "isPopular": true
+    },
+    {
+      "id": 4,
+      "name": "Spring Lane Cinemas - 1351 Plaza Blvd, Sanford, NC 27330",
+      "city": "Paris",
+      "description": "Penthouse with a breathtaking view of the Eiffel Tower.",
+      "price": 450,
+      "bathrooms": 3,
+      "bedrooms": 4,
+      "rooms": 2,
+      "squareFeet": 2800,
+      "location": "8558 Green Rd.",
+      "forRent": false,
+      "image": "../assets/manhattan-dusk.jpg",
+      "isPopular": false
+    },
+    {
+      "id": 5,
+      "name": "RCE Theaters - 907 S Beckford Dr, Henderson, NC 27536",
+      "city": "New York",
+      "description": "Spacious apartment with a great view of Manhattan.",
+      "price": 7255,
+      "bathrooms": 2,
+      "bedrooms": 3,
+      "rooms": 2,
+      "squareFeet": 1800,
+      "location": "8558 Pecan St.",
+      "forRent": true,
+      "image": "../assets/manhattan-dusk.jpg",
+      "isPopular": false
+      
+    },
+    {
+      "id": 6,
+      "name": "Costco Wholesale - 1021 Oak Forest Ln, Myrtle Beach, SC",
+      "city": "New York",
+      "description": "Cozy studio with a stunning view of Central Park.",
+      "price": 7255,
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "rooms": 2,
+      "squareFeet": 750,
+      "location": "8558 Parker Rd.",
+      "forRent": true,
+      "image": "../assets/manhattan-dusk.jpg",
+      "isPopular": true
+    },
+    {
+      "id": 7,
+      "name": "Regal North Hills-4150 Main at North Hills St, Releigh",
+      "city": "Paris",
+      "description": "Lovely studio in the heart of Montmartre.",
+      "price": 5236,
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "rooms": 2,
+      "squareFeet": 600,
+      "location": "3890 Poplar Dr.",
+      "forRent": true,
+      "image": "../assets/manhattan-dusk.jpg",
+      "isPopular": true
+    },
+    {
+      "id": 8,
+      "name": "Spring Lane Cinemas - 1351 Plaza Blvd, Sanford, NC 27330",
+      "city": "Paris",
+      "description": "Penthouse with a breathtaking view of the Eiffel Tower.",
+      "price": 450,
+      "bathrooms": 3,
+      "bedrooms": 4,
+      "rooms": 2,
+      "squareFeet": 2800,
+      "location": "8558 Green Rd.",
+      "forRent": false,
+      "image": "../assets/manhattan-dusk.jpg",
+      "isPopular": false
+    }
+    
+    
+  ]
+}
+
+  
